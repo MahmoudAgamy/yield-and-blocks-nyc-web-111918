@@ -6,5 +6,5 @@ def hello_t(array)
   end
 end
 
-hello_t
+# call your method here!
 
