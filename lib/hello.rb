@@ -7,4 +7,5 @@ def hello_t(array)
 end
 
 # call your method here!
+# by me Mahmoud Agamy "I don't get why calling the method is required here?"" 
 
